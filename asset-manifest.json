@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/assignment-vedasis/static/css/main.36b594a4.css",
-    "main.js": "/assignment-vedasis/static/js/main.53a3efbe.js",
+    "main.css": "/assignment-vedasis/static/css/main.2058808b.css",
+    "main.js": "/assignment-vedasis/static/js/main.090620ab.js",
     "static/js/787.001e509f.chunk.js": "/assignment-vedasis/static/js/787.001e509f.chunk.js",
     "static/media/logo.svg": "/assignment-vedasis/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/assignment-vedasis/index.html",
-    "main.36b594a4.css.map": "/assignment-vedasis/static/css/main.36b594a4.css.map",
-    "main.53a3efbe.js.map": "/assignment-vedasis/static/js/main.53a3efbe.js.map",
+    "main.2058808b.css.map": "/assignment-vedasis/static/css/main.2058808b.css.map",
+    "main.090620ab.js.map": "/assignment-vedasis/static/js/main.090620ab.js.map",
     "787.001e509f.chunk.js.map": "/assignment-vedasis/static/js/787.001e509f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36b594a4.css",
-    "static/js/main.53a3efbe.js"
+    "static/css/main.2058808b.css",
+    "static/js/main.090620ab.js"
   ]
 }
